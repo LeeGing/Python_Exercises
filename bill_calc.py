@@ -1,4 +1,3 @@
-
 # Restaurant Bill Calculator
 
 meal_cost = 18.92
