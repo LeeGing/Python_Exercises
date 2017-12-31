@@ -12,7 +12,8 @@ def todo():
 	if option == "1" :
 		user_input = input("Enter new task: ")
 		print ("=======================================================")
-		arr.append(user_input)
+		arr_input = user_input.upper()
+		arr.append(arr_input)
 		print ("Task list has been updated.")
 		print ("=======================================================")
 		print ("Current Task List: ")
