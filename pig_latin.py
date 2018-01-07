@@ -1,6 +1,6 @@
 #Pig Latin Converter
-import time
 
+import time
 def plc():
 	ay = 'AY'
 	print ("===================================================================================")

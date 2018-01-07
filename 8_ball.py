@@ -5,7 +5,6 @@ def shake():
 	print ("======================================================")
 	print ("==================== MAGIC 8 BALL ====================")
 	print ("======================================================")
-
 	user_input = input("ASK THE 8 BALL YOUR QUESTION: ")
 	ans = random.randint(1,5)
 	if ans == 1:
